@@ -1,0 +1,18 @@
+
+Filament Spine Volume (sum)
+ ==================== 
+Filament Spine Volume (sum),Unit,Category,Time,ID,
+0,µm^3,Filament,1,100000000,
+0,µm^3,Filament,1,100000001,
+0,µm^3,Filament,1,100000002,
+0,µm^3,Filament,1,100000003,
+0,µm^3,Filament,1,100000004,
+0,µm^3,Filament,1,100000005,
+0,µm^3,Filament,1,100000006,
+0,µm^3,Filament,1,100000007,
+0,µm^3,Filament,1,100000008,
+0,µm^3,Filament,1,100000009,
+0,µm^3,Filament,1,100000010,
+0,µm^3,Filament,1,100000011,
+0,µm^3,Filament,1,100000012,
+0,µm^3,Filament,1,100000013,
